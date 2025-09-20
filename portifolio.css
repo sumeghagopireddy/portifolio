@@ -16,16 +16,11 @@ nav ul li a{
     font-size: 20px;
     text-decoration: none;
 }
-#Home img{
-    height: 200px;
-    width:200px;
-    border-radius: 50%;
-}
-#Bio p{
+#am p{
     margin-right: 180px;
     margin-left: 180px;
 }
-#PortFolio{
+#c{
     background-color: blanchedalmond;
     padding: 20px;
 }
